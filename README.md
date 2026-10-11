@@ -52,8 +52,6 @@ BTGIUAKY/
 │   └── anhnen.jpg
 └── README.md
 ### 6. Danh sách liên kết nộp bài
-Link Canva: https://canva.link/r8p994p7hlu1w07
-
-Link Video: [Dán link YouTube/Drive video thuyết trình 3 phút vào đây]
-
-Link GitHub Repository: [Dán link GitHub chứa project này vào đây]
+- **Link thiết kế (Figma / Canva):** https://canva.link/r8p994p7hlu1w07d
+- **Link GitHub Repository:** https://github.com/dth0209/BTGK-CSE122-67CNTT1
+- **Link Video thuyết trình:** [Dán link YouTube/Drive sau khi bạn quay xong video tại đây]
