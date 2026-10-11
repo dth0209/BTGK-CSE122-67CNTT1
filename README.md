@@ -51,7 +51,7 @@ BTGIUAKY/
 ├── assets/
 │   └── anhnen.jpg
 └── README.md
-6. Danh sách liên kết nộp bài
+### 6. Danh sách liên kết nộp bài
 Link Canva: https://canva.link/r8p994p7hlu1w07
 
 Link Video: [Dán link YouTube/Drive video thuyết trình 3 phút vào đây]
