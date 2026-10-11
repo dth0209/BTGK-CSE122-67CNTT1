@@ -42,12 +42,15 @@
 
 ### 5. Cấu trúc thư mục dự án
 ```text
-culture-trail-auth/
+BTGIUAKY/
 ├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── main.js
-├── assets/
-│   └── anhnen.jpg
+├── style.css
+├── main.js
+├── thiennhien.jpg
 └── README.md
+
+---
+### 6. Danh sách liên kết nộp bài
+- **Link thiết kế (Canva / Figma):** https://canva.link/r8p994p7hlu1w07d
+- **Link GitHub Repository:** https://github.com/dth0209/BTGK-CSE122-67CNTT1
+- **Link Video thuyết trình:** [Dán link YouTube/Drive sau khi bạn quay xong video tại đây]
