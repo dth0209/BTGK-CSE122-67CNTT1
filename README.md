@@ -4,11 +4,11 @@
 ---
 
 ### 1. Thông tin sinh viên & Đề tài
-- Họ và tên: Đặng Trung Hiếu
-- Mã sinh viên:2551060612
-- Lớp: 67CNTT1
-- Tên đề tài BTL: CultureTrail – Nền tảng kết nối văn hóa và du lịch di sản
-- Tên trang thực hiện: Trang Đăng ký (Register Page)
+- **Họ và tên:** Đặng Trung Hiếu
+- **Lớp:** 67CNTT1
+- **Mã sinh viên:** 2551060612
+- **Tên đề tài BTL:** CultureTrail – Nền tảng kết nối văn hóa và du lịch di sản
+- **Tên trang thực hiện:** Trang Đăng ký (Register Page)
 
 ---
 
@@ -42,7 +42,7 @@
 
 ### 5. Cấu trúc thư mục dự án
 ```text
-BTGIUAKY/
+culture-trail-auth/
 ├── index.html
 ├── css/
 │   └── style.css
@@ -51,7 +51,3 @@ BTGIUAKY/
 ├── assets/
 │   └── anhnen.jpg
 └── README.md
-### 6. Danh sách liên kết nộp bài
-- **Link thiết kế (Figma / Canva):** https://canva.link/r8p994p7hlu1w07d
-- **Link GitHub Repository:** https://github.com/dth0209/BTGK-CSE122-67CNTT1
-- **Link Video thuyết trình:** [Dán link YouTube/Drive sau khi bạn quay xong video tại đây]
