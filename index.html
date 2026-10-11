@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tạo tài khoản mới - CultureTrail</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Thanh đầu trang -->
+  <header class="phandau">
+    <a href="#" class="logo">CultureTrail</a>
+    <a href="#" class="nuttrangchu">&larr; Về trang chủ</a>
+  </header>
+
+  <!-- Khung nội dung chính -->
+  <main class="khungchinh">
+    
+    <!-- Cột trái: Ảnh và câu nói -->
+    <section class="cottrai">
+      <div class="hopchu">
+        <h2 class="tieudeanh">Kết nối di sản</h2>
+        <p class="motaanh">"Hành trình vạn dặm luôn bắt đầu từ một bước chân tìm về nguồn cội."</p>
+      </div>
+    </section>
+
+    <!-- Cột phải: Form nhập liệu -->
+    <section class="cotphai">
+      <div class="hopform">
+        <h1 class="tieudeform">Tạo tài khoản mới</h1>
+        <p class="motaform">Vui lòng đăng ký để tiếp tục hành trình.</p>
+
+        <!-- Form đăng ký -->
+        <form id="formdangky" novalidate>
+          
+          <div class="hangnhap">
+            <label for="hoten" class="nhan">Họ và tên</label>
+            <input type="text" id="hoten" class="onhap" placeholder="Nguyễn Văn A">
+            <span id="loihoten" class="baoloi"></span>
+          </div>
+
+          <div class="hangnhap">
+            <label for="email" class="nhan">Email</label>
+            <input type="email" id="email" class="onhap" placeholder="email@example.com">
+            <span id="loiemail" class="baoloi"></span>
+          </div>
+
+          <div class="hangnhap">
+            <label for="matkhau" class="nhan">Mật khẩu</label>
+            <input type="password" id="matkhau" class="onhap" placeholder="••••••••">
+            <span id="loimatkhau" class="baoloi"></span>
+          </div>
+
+          <button type="submit" class="nutgui">Đăng ký</button>
+        </form>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Nút tròn hỗ trợ góc phải -->
+  <button class="nuthotro" title="Hỗ trợ">&#128172;</button>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
