@@ -13,7 +13,7 @@
 |:---:|---|---|
 | 1 | **Bản thiết kế Canva** | https://canva.link/xfdcwhmfzpvs0tq
 | 2 | **GitHub Repository** | https://github.com/dth0209/BTGK-CSE122-67CNTT1
-| 3 | **Video thuyết minh (03 phút)** | [Xem Video Youtube/Drive](https://...) |
+| 3 | **Video thuyết minh (03 phút)** | https://youtube.com/playlist?list=PLGG-vx3qfl0w&si=2kMAs2U0OOXgSRRI
 
 > **Quy chuẩn tên video:** `CSE122-GK-SV20-Đặng Trung Hiếu-AdminReviewDashboard`
 
